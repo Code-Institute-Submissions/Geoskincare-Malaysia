@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/*#2F575D  #c4cdc1  #DEE1DD f6ab84*/
+
+body {
+    text-align: center;
+}
+
+header {
+    margin: 0;
+}
+
+
+/*---------------------------------------------------------------------Background*/
+
+.bg-color-offer {
+    background-color: #f7a983;
+}
+
+.bg-welcome {
+    background: url("../images/skincare5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 55em;
+}
+
+/*.bg-footer {
+    background-color: #f7a983;
+    padding-left: 0;
+    padding-right: 0;
+}*/
+
+/*---------------------------------------------------------------------Home*/
+
+.welcome {
+    display: block;
+    font-family: "Lobster", sans-serif;
+    font-weight: 700;
+    font-size: 200%;
+    color: #f5f5f5;
+    position: relative;
+    top: 50%;
+}
+
+.only-mobile {
+    display: none;
+}
+
+.mooncakeimg {
+    width: 45%;
+    height: 45%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.offer-heading {
+    text-align: center;
+    color: #f5f5f5;
+    font-family: "Lobster", sans-serif;
+    font-weight: 700;
+    font-size: 200%;
+    word-spacing: 5px;
+    margin-top: 15%;
+    text-transform: uppercase;
+}
+
+.offer {
+    text-align: center;
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    margin: 0px 5px 0px 5px;
+}
+
+.offer-link {
+    color: #f5f5f5;
+    text-decoration: underline;
+}
+
+.offer-link:hover {
+    color: #D4D4D4;
+}
+
+
+/*---------------------------------------------------------------------Footer*/
+
+hr {
+    margin: 0;
+    border-color: #f7a983;
+}
+
+.socialmedia li a i {
+    margin-top: 1em;
+    font-size: 22px;
+    margin-right: 30px;
+    color: #f7a983;
+}
+
+.general-sub li a p {
+    color: #f7a983;
+    margin-top: 1.5em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.hov-footer:hover {
+    text-decoration: none;
+    color: #d4d4d4;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media(max-width: 768px) {
+    .only-mobile {
+        display: block;
+    }
+}
