@@ -10,8 +10,11 @@ header {
     margin: 0;
 }
 
-
 /*---------------------------------------------------------------------Background*/
+
+section {
+    background-color: #f7a983;
+}
 
 .bg-color-offer {
     background-color: #f7a983;
@@ -38,7 +41,7 @@ header {
     font-size: 200%;
     color: #f5f5f5;
     position: relative;
-    top: 50%;
+    top: 48%;
 }
 
 .only-mobile {
@@ -104,9 +107,35 @@ header {
     color: #d4d4d4;
 }
 
+.nav-hr {
+    margin: 0;
+    border-color: #f5f5f5;
+}
+
+/*---------------------------------------------------------------------About Us*/
+
+.aboutusimg {
+    margin-top: 30px;
+    border-radius: 50px;
+}
+
+.aboutus-title {
+    margin-top: 30px;
+    color: #f5f5f5;
+    font-family: "Lobster", sans-serif;
+    font-size: 40px;
+}
+
+.aboutus-text {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    padding: 0 30px;
+    margin-top: 15px;
+}
+
 /*---------------------------------------------------------------------Footer*/
 
-hr {
+.footer-hr {
     margin: 0;
     border-color: #f7a983;
 }
