@@ -120,7 +120,7 @@ section {
     border-color: #f5f5f5;
 }
 
-/*--------------------------------------------------------------------Section*/
+/*--------------------------------------------------------------------About Us Section*/
 /*-----------------------------------------------------------About Us*/
 
 .aboutusimg {
@@ -188,8 +188,56 @@ section {
     margin-right: auto;
     margin-left: auto;
 }
-/*--------------------------------------------------------------------End of Section*/
+/*--------------------------------------------------------------------End of About Us Section*/
 
+/*--------------------------------------------------------------------Products Section*/
+
+.productstoggle a {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.productstoggle a:hover {
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+.productsimg {
+    margin-top: 20px;
+}
+
+.last-productimg {
+    margin-bottom: 20px;
+}
+
+.products-title {
+    margin-top: 50px;
+    text-align: cent3er;
+    color: #f5f5f5;
+    font-family: "Lobster",sans-serif;
+}
+
+.products-subtitle {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.products-detail {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.price {
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------------------End of Products Section*/
 
 /*---------------------------------------------------------------------Footer*/
 
@@ -223,5 +271,13 @@ section {
 @media(max-width: 768px) {
     .only-mobile {
         display: block;
+    }
+
+    .products-title {
+        margin-top: 10px;
+    }
+
+    .productsimg {
+        width: 100%;
     }
 }
