@@ -46,3 +46,20 @@ It also provides home treatment for customers that are too busy to visit a beaut
     ##### Wireframe
 
       1. [Will upload later](https://link)
+
+- ### Credits
+
+    ##### Code
+      
+      1. [Bootstrap](https://getbootstrap.com/)
+      2. [Nav center](https://www.codeply.com/go/qhaBrcWp3v)
+
+    ##### Media
+
+      1. Home, About Us and Contact page's images are from [pexels](https://https://www.pexels.com/)
+      2. Products and images are from [geoskincaremy](https://www.geoskincare.com.my/)
+      3. Home Treatment images are from my sister herself. 
+
+    ##### Content
+    
+      All products and promotion content is from either my sister or from [geoskincare](http://www.geoskincare.com/)       
