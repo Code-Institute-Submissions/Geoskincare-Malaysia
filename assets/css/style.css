@@ -12,7 +12,7 @@ header {
 
 /*---------------------------------------------------------------------Background*/
 
-section {
+.bg-section {
     background-color: #f7a983;
 }
 
@@ -34,6 +34,19 @@ section {
 
 .bg-reviews {
     background-color: #f5f5f5;
+}
+
+bg-nanogun {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-inquiry {
+    background: url("../images/skincare3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 55em;
 }
 
 /*---------------------------------------------------------------------Home*/
@@ -190,7 +203,7 @@ section {
 }
 /*--------------------------------------------------------------------End of About Us Section*/
 
-/*--------------------------------------------------------------------Products Section*/
+/*--------------------------------------------------------------------Products*/
 
 .productstoggle a {
     color: #f5f5f5;
@@ -237,7 +250,61 @@ section {
     text-decoration: none;
 }
 
-/*--------------------------------------------------------------------End of Products Section*/
+/*--------------------------------------------------------------------Home Treatment*/
+
+/*--------------------------------------------------------------------Contact*/
+
+.inquiry-title {
+    color: #f5f5f5;
+    font-family: "Lobster", sans-serif;
+    margin-top: 15%;
+    text-decoration: underline;
+}
+
+.inquiry-text {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.form-group {
+    padding: 0 5em 0 5em;
+}
+
+.form-title {
+    color: #f5f5f5;
+    font-family: "Lobster", sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+form button {
+    margin-bottom: 30px;
+}
+
+.media-inquiry {
+    list-style-type: none;
+    position: relative;
+    top: 28%;
+    right: 65px;
+}
+
+.media-inquiry li {
+    margin-top: 50px;
+}
+
+.media-inquiry li a {
+    color: #f5f5f5;
+    font-size: 25px;
+}
+
+.media-inquiry li a em {
+    margin-left: 10px;
+    font-size: 18px;
+}
 
 /*---------------------------------------------------------------------Footer*/
 
