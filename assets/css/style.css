@@ -265,6 +265,7 @@ header {
     font-family: "Lobster", sans-serif;
     color: #f5f5f5;
     font-size: 20px;
+    margin-left: 10px;
 }
 
 .nano-details li {
@@ -277,6 +278,30 @@ header {
     color: #f5f5f5;
     font-family: "Montserrat", sans-serif;
     text-align: left;
+}
+
+.serum-heading {
+    font-family: "Lobster", sans-serif;
+    color: #f5f5f5;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.serum-subtitle {
+    font-family: "Lobster", sans-serif;
+    color: #f5f5f5;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.serum-details {
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+.last-serum-img {
+    margin-bottom: 30px;
 }
 
 /*--------------------------------------------------------------------Contact*/

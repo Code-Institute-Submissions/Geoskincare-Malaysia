@@ -56,10 +56,10 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
     ##### Media
 
-      1. Home, About Us and Contact page's images are from [pexels](https://https://www.pexels.com/)
-      2. Products and images are from [geoskincaremy](https://www.geoskincare.com.my/)
-      3. Home Treatment images are from my sister herself. 
+      1. Home, About Us and Contact page's images are from [pexels](https://https://www.pexels.com/).
+      2. Products and images are from [geoskincaremy](https://www.geoskincare.com.my/).
+      3. Home Treatment images are from my sister herself and [geoskincaremy](https://www.geoskincare.com.my/). 
 
     ##### Content
     
-      All products and promotion content is from either my sister or from [geoskincare](http://www.geoskincare.com/)       
+      All products and promotion content is from either my sister or from [geoskincaremy](https://www.geoskincare.com.my/) and [geoskincare](https://www.geoskincare.com/)     
