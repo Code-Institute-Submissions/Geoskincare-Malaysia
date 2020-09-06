@@ -36,11 +36,6 @@ header {
     background-color: #f5f5f5;
 }
 
-bg-nanogun {
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .bg-inquiry {
     background: url("../images/skincare3.png");
     background-repeat: no-repeat;
@@ -251,6 +246,38 @@ bg-nanogun {
 }
 
 /*--------------------------------------------------------------------Home Treatment*/
+
+.nanogun-img div img {
+    margin-top: 30px;
+}
+
+.nanogun-img div div h5 {
+    font-family: "Lobster", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    position: relative;
+    top: 40px;
+
+}
+
+.nano-title {
+    margin-top: 30px;
+    font-family: "Lobster", sans-serif;
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+.nano-details li {
+    list-style-type: circle;
+    color: #f5f5f5;
+}
+
+.nano-details li p {
+    margin-top: 20px;
+    color: #f5f5f5;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+}
 
 /*--------------------------------------------------------------------Contact*/
 
