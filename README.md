@@ -79,7 +79,14 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
 - ### Testing
 
-     1.  
+     1. Tested HTML code via [W3C Markup Validator](https://validator.w3.org/) and there's no error.
+     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and there's no error.
+
+- ### Testing User Stories from User Experience (UX) Section
+
+     1. 
+     2.
+     3.
 
 - ### Credits
 
