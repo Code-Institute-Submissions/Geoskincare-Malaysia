@@ -122,6 +122,9 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X.
      3. A large amount of testing was done to ensure all pages and social media were linking correctly.
 
+- ### Known Bugs
+    The carousel indicators overlay the video which does not allow the user to click the pause and volume control icons.
+
 - ### Deployment
 
    - ##### The project was deployed to GitHub Pages using the following steps.
