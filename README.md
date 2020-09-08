@@ -3,13 +3,15 @@
 This is a website for skincare lovers that seek products with natural ingredients, no fragrance and animal cruelty free.
 It also provides home treatment for customers that are too busy to visit a beauty clinic.
 
+Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
+
 - ### User Stories
 
    - ##### First Time Visitor Goals
 
       1. As a First Time Visitor, I want to easily grasp the purpose of the site and learn more about the products and treatment care.
       2. As a First Time Visitor, I want to look around the site easily.
-      3. As a First Time Visitor, I want to know if the site are trustworthy through their social media and testimonials.
+      3. As a First Time Visitor, I want to know if the company is trustworthy through their social media and testimonials.
       4. As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
       5. As a First Time Visitor, I want to get into contact with them.
 
@@ -28,7 +30,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
        1. As a Site Owner, I want the promotion to attract First Time Visitor and Return Customer.
        2. As a Site Owner, I want First Time Visitor to have interest in the brand because of the information in this site.
        3. As a Site Owner, I want Frequent User to know right away what is the promotion for this month.
-       4. As a Site Owner, I want to gain more customer from this site.
+       4. As a Site Owner, I want to gain more customers from this site.
 
 - ### Design
 
@@ -40,7 +42,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
       1. Lobster as the Heading Title choices because it's fun and bold.
       2. Montserrat as the normal text because it's clean and simple and it's easily pair with any Heading choice of font.
-      3. Sans Serif will be the fall back font if both Lobster and Montserrat fonts doesn't work.
+      3. Sans Serif will be the fall back font if both Lobster and Montserrat fonts don't work.
 
    - ##### Wireframe
 
@@ -58,7 +60,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
       
       1. Add a shopping cart and checkout section.
       2. Back to top button in Products page.
-      3. Newsletter to inform customer our new products.
+      3. Newsletter to inform customer of our new products.
 
 - ### Technologies Used
 
@@ -80,17 +82,17 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
 - ### Testing
 
-     1. Tested HTML code via [W3C Markup Validator](https://validator.w3.org/) and there's no error.
-     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and there's no error.
+     1. Tested HTML code via [W3C Markup Validator](https://validator.w3.org/) and results show no errors.
+     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and results show to errors.
 
 - ### Testing User Stories from User Experience (UX) Section
 
    - ##### First Time Visitor Goals 
 
      - ##### As a First Time Visitor, I want to easily grasp the purpose of the site and learn more about the products and treatment care.
-       1. When entering the site, Users are greeted with a welcome sign and learn more button on the right and on the left it's a promotion for this month that's gonna attract them to click into the page.
+       1. When entering the site, Users are greeted with a welcome sign and learn more button on the right. On the left there is a promotion for this month that will attract the user to enter the page.
      - ##### As a First Time Visitor, I want to look around the site easily.
-       1. There's a navigation bar on the top of all pages to let User easily click on the page they want to go.
+       1. There's a navigation bar at the top of all pages to allow the User to easily click on the desired page.
      - ##### As a First Time Visitor, I want to know if the site are trustworthy through their social media and testimonials.              
        1. At the bottom of all pages User can locate social media links in the footer.
        2. On the contact page there is also our social media link along with the name of our company in that media.
@@ -98,7 +100,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
      - ##### As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
        1. We always put the price right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
      - ##### As a First Time Visitor, I want to get into contact with them.
-       1. Users can get in touch with us by filling up the form in Contact page or they can message us through our social media.
+       1. Users can get in touch with us by filling the form in Contact page or they can message us through our social media.
 
    - ##### Returning Visitor Goals
 
@@ -112,7 +114,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
      - ##### As a Frequent User, I want to check if there are any new monthly promotions/offers.
        1. Users can find the promotion section when they first enter the site.
      - ##### As a Frequent User, I want to check if there are any new skincare products.
-       2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subcribtion to inform Users about it. 
+       2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subscription to inform Users about it.
 
 - ### Further Testing
 
