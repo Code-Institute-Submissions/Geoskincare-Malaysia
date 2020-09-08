@@ -120,8 +120,16 @@ It also provides home treatment for customers that are too busy to visit a beaut
      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X.
      3. A large amount of testing was done to ensure all pages and social media were linking correctly.
 
-- ### Known Bugs
-     1. 
+- ### Deployment
+
+   - ##### The project was deployed to GitHub Pages using the following steps.
+
+      1. Log into GitHub and locate the [GitHub Repository](https://github.com/Tanyapond/Geoskincare-Malaysia)
+      2. At the top of the page, locate the "Settings" button beside "Insights" button on the menu.
+      3. Scroll to the bottom until you notice the "GitHub Pages" section.
+      4. Under the "Source" dropdown button, choose "Master Branch".
+      5. Make sure the /roots folder is chosen too then click save and the page will automatically refresh.
+      6. Scroll back to the bottom of the page and locate the now published website on the "GitHub Pages" section.
 
 - ### Credits
 
@@ -135,6 +143,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
       1. Home, About Us and Contact page's images are from [pexels](https://https://www.pexels.com/).
       2. Products and images are from [geoskincaremy](https://www.geoskincare.com.my/).
       3. Home Treatment images are from my sister herself and [geoskincaremy](https://www.geoskincare.com.my/). 
+      4. Home Treatment video are from [geoskincare Nano Chip Beauty Instrument Instructions](https://www.youtube.com/watch?v=ZaSKwr6KC6c&t=199s&ab_channel=EmilyYin)
 
    - ##### Content
     
