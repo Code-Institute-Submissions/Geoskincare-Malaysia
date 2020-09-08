@@ -58,6 +58,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
       
       1. Add a shopping cart and checkout section.
       2. Back to top button in Products page.
+      3. Newsletter to inform customer our new products.
 
 - ### Technologies Used
 
@@ -84,9 +85,43 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
 - ### Testing User Stories from User Experience (UX) Section
 
+   - ##### First Time Visitor Goals 
+
+     - ##### As a First Time Visitor, I want to easily grasp the purpose of the site and learn more about the products and treatment care.
+       1. When entering the site, Users are greeted with a welcome sign and learn more button on the right and on the left it's a promotion for this month that's gonna attract them to click into the page.
+     - ##### As a First Time Visitor, I want to look around the site easily.
+       1. There's a navigation bar on the top of all pages to let User easily click on the page they want to go.
+     - ##### As a First Time Visitor, I want to know if the site are trustworthy through their social media and testimonials.              
+       1. At the bottom of all pages User can locate social media links in the footer.
+       2. On the contact page there is also our social media link along with the name of our company in that media.
+       3. At the about us page, User will notice the customer reviews section.
+     - ##### As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
+       1. We always put the price right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
+     - ##### As a First Time Visitor, I want to get into contact with them.
+       1. Users can get in touch with us by filling up the form in Contact page or they can message us through our social media.
+
+   - ##### Returning Visitor Goals
+
+     - ##### As a Returning Visitor, I want to find out if there are any promotions/ offers.
+       1. Users can find the promotion section when they first enter the site.
+     - ##### As a Returning Visitor, I want to be able to give them feedback.   
+       1. Users can send us message on the Contact page. 
+
+   - ##### Frequent User Goals 
+
+     - ##### As a Frequent User, I want to check if there are any new monthly promotions/offers.
+       1. Users can find the promotion section when they first enter the site.
+     - ##### As a Frequent User, I want to check if there are any new skincare products.
+       2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subcribtion to inform Users about it. 
+
+- ### Further Testing
+
+     1. The Website was tested on Google Chrome and Firefox.
+     2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X.
+     3. A large amount of testing was done to ensure all pages and social media were linking correctly.
+
+- ### Known Bugs
      1. 
-     2.
-     3.
 
 - ### Credits
 
