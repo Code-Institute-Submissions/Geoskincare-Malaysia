@@ -44,7 +44,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
    - ##### Wireframe
 
-      1. [Will upload later](https://link)
+      1. [Desktop and Mobile Wireframe](https://github.com/Tanyapond/Geoskincare-Malaysia/blob/27c5b8fe6b22dcb02073bee235a8d9d9e923b633/wireframe-img/New%20Project%201.pdf)
 
 - ### Features
 
