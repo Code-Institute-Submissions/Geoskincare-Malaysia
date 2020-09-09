@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;400;500;600;700&display=swap');
 
-/*#FFE1D3 FFC8AD, D17A51, AD572D*/
-
 body {
     text-align: center;
 }
@@ -38,6 +36,35 @@ header {
     background-size: cover;
     background-position: center center;
     height: 55em;
+}
+
+/*---------------------------------------------------------------------Navbar*/
+
+.navbar-title {
+    color: #FEF9F6;
+    font-family: "Lobster", sans-serif;
+    font-weight: 700;
+    font-size: 150%;
+}
+
+.navbar-title:hover {
+    color: #F79683;
+}
+
+.navbar-subtitle li a {
+    color: #FEF9F6;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.navbar-subtitle li a:hover {
+    color: #F79683;
+}
+
+.nav-hr {
+    margin: 0;
+    border-color: #FEF9F6;
 }
 
 /*---------------------------------------------------------------------Home*/
@@ -102,35 +129,6 @@ header {
 .all-products:hover {
     color: #F27536;
     text-decoration: none;
-}
-
-/*---------------------------------------------------------------------Navbar*/
-
-.navbar-title {
-    color: #FEF9F6;
-    font-family: "Lobster", sans-serif;
-    font-weight: 700;
-    font-size: 150%;
-}
-
-.navbar-title:hover {
-    color: #F79683;
-}
-
-.navbar-subtitle li a {
-    color: #FEF9F6;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 500;
-    font-size: 15px;
-}
-
-.navbar-subtitle li a:hover {
-    color: #F79683;
-}
-
-.nav-hr {
-    margin: 0;
-    border-color: #FEF9F6;
 }
 
 /*--------------------------------------------------------------------About Us Section*/

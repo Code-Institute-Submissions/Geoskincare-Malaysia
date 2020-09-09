@@ -36,7 +36,8 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
    - ##### Color Theme
 
-      The two main colours used are Peach and White.
+      The two main colours used are Light Salmon, Vivid Tangerine and Isabelline.
+      The Navbar and Footer colors used are Congo Pink, Peach Crayola and Isabelline.
 
    - ##### Font
 
@@ -54,7 +55,7 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
       1. Allow user to fill in form so we can get in touch with them.
       2. Responsive on all device sizes.
-      3. Carousel in Home Treatment page to show what type of nano-gun is available.
+      3. Carousel in Home Treatment page to show what type of nano-gun and serum is available.
 
    - ##### Features Left to Implement
       
@@ -121,9 +122,6 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
      1. The Website was tested on Google Chrome and Firefox.
      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X.
      3. A large amount of testing was done to ensure all pages and social media were linking correctly.
-
-- ### Known Bugs
-    The carousel indicators overlay the video which does not allow the user to click the pause and volume control icons.
 
 - ### Deployment
 
