@@ -1,9 +1,7 @@
-# Geoskincare Malaysia
+# [Geoskincare Malaysia](https://tanyapond.github.io/Geoskincare-Malaysia/)
 
 This is a website for skincare lovers that seek products with natural ingredients, no fragrance and animal cruelty free.
 It also provides home treatment for customers that are too busy to visit a beauty clinic.
-
-Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
 - ## User Stories
 
@@ -163,4 +161,7 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
    - ### Content
     
-      All products and promotion content is from either my sister or from [geoskincaremy](https://www.geoskincare.com.my/) and [geoskincare](https://www.geoskincare.com/)     
+      All products and promotion content is from either my sister or from [geoskincaremy](https://www.geoskincare.com.my/) and [geoskincare](https://www.geoskincare.com/)
+
+- ## Acknowledgements
+    I want to thanks Code Institute for the video teaching and my Mentor, Cans for guiding me and being patient with me throughout the project, Thank You.     
