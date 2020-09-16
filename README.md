@@ -87,7 +87,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
 - ## Testing
 
      1. Tested HTML code via [W3C Markup Validator](https://validator.w3.org/) and results show no errors.
-     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and results show 1 warnings about imported style sheets are not checked in direct input and file upload modes but it's not affecting the site. 
+     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and results show 1 warning about imported style sheets are not checked in direct input and file upload modes but it's not affecting the site. 
 
     - ### Testing User Stories from User Experience (UX) Section
 
@@ -118,7 +118,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
          ##### As a Returning Visitor, I want to find out if there are any promotions/ offers.
           1. Users can find the promotion section when they first enter the site. *See above for website promotion image*
          ##### As a Returning Visitor, I want to be able to give them feedback.   
-          1. Users can send us message on the Contact page. *See above for website contact image*
+          1. Users can send us messages on the Contact page. *See above for website contact image*
 
       - #### Frequent User Goals 
 
@@ -129,8 +129,8 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
     - ### Further Testing
 
-      1. The Website was tested on Google Chrome and Firefox and there is no errors.
-      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X and there's an issue regarding Home Treatment carousel images being too stretch but I've fixed it.
+      1. The Website was tested on Google Chrome and Firefox and there are no errors.
+      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X and there's an issue regarding Home Treatment carousel images appearing stretched. This has now been fixed.
       3. A large amount of testing was done to ensure all pages and social media were linking correctly.
       4. I have asked family member to test the website where she experienced no errors and easily navigate to other pages. 
 
@@ -164,4 +164,4 @@ It also provides home treatment for customers that are too busy to visit a beaut
       All products and promotion content is from either my sister or from [geoskincaremy](https://www.geoskincare.com.my/) and [geoskincare](https://www.geoskincare.com/)
 
 - ## Acknowledgements
-    I want to thank Code Institute for the video teaching and my mentor, Cans for guiding me and being patient with me throughout the project, Thank You.     
+    I want to thank Code Institute for the video teaching, my boyfriend, Jase for helping me with the grammer and my mentor, Cans for guiding me and being patient with me throughout the project, Thank You.     
