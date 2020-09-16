@@ -45,7 +45,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
    - ### Wireframe
 
-      1. ![Desktop and Mobile Wireframe](./assets/readme/wireframe.pdf)
+      1. ![Desktop and Mobile Wireframe](/assets/readme/wireframe.pdf)
       2. Tablet is the same as Desktop version.
 
 - ## Features
@@ -116,14 +116,14 @@ It also provides home treatment for customers that are too busy to visit a beaut
       - #### Returning Visitor Goals
 
          ##### As a Returning Visitor, I want to find out if there are any promotions/ offers.
-          1. Users can find the promotion section when they first enter the site. (See above for website promotion image)
+          1. Users can find the promotion section when they first enter the site. *See above for website promotion image*
          ##### As a Returning Visitor, I want to be able to give them feedback.   
-          1. Users can send us message on the Contact page. (See above for website contact image)
+          1. Users can send us message on the Contact page. *See above for website contact image*
 
       - #### Frequent User Goals 
 
          ##### As a Frequent User, I want to check if there are any new monthly promotions/offers.
-          1. Users can find the promotion section when they first enter the site. (See above for website promotion image)
+          1. Users can find the promotion section when they first enter the site. *See above for website promotion image*
          ##### As a Frequent User, I want to check if there are any new skincare products.
           2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subscription to inform Users about it.
 
@@ -164,4 +164,4 @@ It also provides home treatment for customers that are too busy to visit a beaut
       All products and promotion content is from either my sister or from [geoskincaremy](https://www.geoskincare.com.my/) and [geoskincare](https://www.geoskincare.com/)
 
 - ## Acknowledgements
-    I want to thanks Code Institute for the video teaching and my Mentor, Cans for guiding me and being patient with me throughout the project, Thank You.     
+    I want to thank Code Institute for the video teaching and my mentor, Cans for guiding me and being patient with me throughout the project, Thank You.     
