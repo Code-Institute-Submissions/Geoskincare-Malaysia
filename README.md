@@ -1,4 +1,5 @@
 # [Geoskincare Malaysia](https://tanyapond.github.io/Geoskincare-Malaysia/)
+![](./assets/readme/website-name.png)
 
 This is a website for skincare lovers that seek products with natural ingredients, no fragrance and animal cruelty free.
 It also provides home treatment for customers that are too busy to visit a beauty clinic.
