@@ -97,28 +97,35 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
          ##### As a First Time Visitor, I want to easily grasp the purpose of the site and learn more about the products and treatment care.
           1. When entering the site, Users are greeted with a welcome sign and learn more button on the right. On the left there is a promotion for this month that will attract the user to enter the page.
+          ![](./assets/readme/homepage.png)
          ##### As a First Time Visitor, I want to look around the site easily.
           1. There's a navigation bar at the top of all pages to allow the User to easily click on the desired page.
+          ![](./assets/readme/navbar.png)
          ##### As a First Time Visitor, I want to know if the site are trustworthy through their social media and testimonials.              
           1. At the bottom of all pages User can locate social media links in the footer.
+          ![](./assets/readme/footer.png)
           2. On the contact page there is also our social media link along with the name of our company in that media.
+          ![](./assets/readme/contact-media.png)
           3. At the about us page, User will notice the customer reviews section.
+          ![](./assets/readme/reviews.png)
          ##### As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
           1. We always put the price right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
+          ![](./assets/readme/details.png)
          ##### As a First Time Visitor, I want to get into contact with them.
           1. Users can get in touch with us by filling the form in Contact page or they can message us through our social media.
+          ![](./assets/readme/contact-form.png)
 
       - #### Returning Visitor Goals
 
          ##### As a Returning Visitor, I want to find out if there are any promotions/ offers.
-          1. Users can find the promotion section when they first enter the site.
+          1. Users can find the promotion section when they first enter the site. (See above for website promotion image)
          ##### As a Returning Visitor, I want to be able to give them feedback.   
-          1. Users can send us message on the Contact page. 
+          1. Users can send us message on the Contact page. (See above for website contact image)
 
       - #### Frequent User Goals 
 
          ##### As a Frequent User, I want to check if there are any new monthly promotions/offers.
-          1. Users can find the promotion section when they first enter the site.
+          1. Users can find the promotion section when they first enter the site. (See above for website promotion image)
          ##### As a Frequent User, I want to check if there are any new skincare products.
           2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subscription to inform Users about it.
 
@@ -127,6 +134,7 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
       1. The Website was tested on Google Chrome and Firefox and there is no errors.
       2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X and there's an issue regarding Home Treatment carousel images being too stretch but I've fixed it.
       3. A large amount of testing was done to ensure all pages and social media were linking correctly.
+      4. I have asked family member to test the website where they experienced no errors and easily navigate to other pages. 
 
 - ## Deployment
 
