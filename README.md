@@ -57,6 +57,9 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
       1. Allow user to fill in form so we can get in touch with them.
       2. Responsive on all device sizes.
       3. Carousel in Home Treatment page to show what type of nano-gun and serum is available.
+      4. Video in Home Treatment page to show how to use the nano-gun.
+      5. Promotion in homepage.
+      6. Social link to direct Users to social media page.
 
    - ### Features Left to Implement
       
@@ -81,11 +84,12 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
       5. [GitHub](https://github.com/) (Store projects after being pushed from Gitpod.)
       6. [Balsamiq](https://balsamiq.com/) (Used to design the layout of the website.)
       7. [PicResize](https://picresize.com/) (Used for resizing images that are too large.)
+      8. [Coolors](https://coolors.co/) (Used to find a matching color for website theme.)
 
 - ## Testing
 
      1. Tested HTML code via [W3C Markup Validator](https://validator.w3.org/) and results show no errors.
-     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and results show to errors.
+     2. Tested CSS via [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) and results show 1 warnings about imported style sheets are not checked in direct input and file upload modes but it's not affecting the site. 
 
     - ### Testing User Stories from User Experience (UX) Section
 
@@ -118,11 +122,11 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
          ##### As a Frequent User, I want to check if there are any new skincare products.
           2. For now, Users can check our products via our social media but in the future, we will be adding a newsletter subscription to inform Users about it.
 
-      - ### Further Testing
+    - ### Further Testing
 
-          1. The Website was tested on Google Chrome and Firefox.
-          2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X.
-          3. A large amount of testing was done to ensure all pages and social media were linking correctly.
+      1. The Website was tested on Google Chrome and Firefox and there is no errors.
+      2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X and there's an issue regarding Home Treatment carousel images being too stretch but I've fixed it.
+      3. A large amount of testing was done to ensure all pages and social media were linking correctly.
 
 - ## Deployment
 
