@@ -104,12 +104,12 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
          ##### As a First Time Visitor, I want to know if the site are trustworthy through their social media and testimonials.              
           1. At the bottom of all pages User can locate social media links in the footer.
           ![](./assets/readme/footer.png)
-          2. On the contact page there is also our social media link along with the name of our company in that media.
+          2. On contact page there is also our social media link.
           ![](./assets/readme/contact-media.png)
           3. At the about us page, User will notice the customer reviews section.
           ![](./assets/readme/reviews.png)
          ##### As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
-          1. We always put the price right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
+          1. The price are right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
           ![](./assets/readme/details.png)
          ##### As a First Time Visitor, I want to get into contact with them.
           1. Users can get in touch with us by filling the form in Contact page or they can message us through our social media.
