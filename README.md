@@ -151,7 +151,7 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
    - ### Code
       
-      1. [Bootstrap](https://getbootstrap.com/) For majority fo the page like row and column, carousel, video and navbar.
+      1. [Bootstrap](https://getbootstrap.com/) For majority of the page like row and column, carousel, video and navbar.
       2. [Nav center](https://www.codeply.com/go/qhaBrcWp3v) To center the navigation bar on Desktop and Tablet display.
 
    - ### Media
