@@ -134,7 +134,7 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
       1. The Website was tested on Google Chrome and Firefox and there is no errors.
       2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7, 8 & X and there's an issue regarding Home Treatment carousel images being too stretch but I've fixed it.
       3. A large amount of testing was done to ensure all pages and social media were linking correctly.
-      4. I have asked family member to test the website where they experienced no errors and easily navigate to other pages. 
+      4. I have asked family member to test the website where she experienced no errors and easily navigate to other pages. 
 
 - ## Deployment
 
@@ -151,8 +151,8 @@ Enter the Website [here](https://tanyapond.github.io/Geoskincare-Malaysia/).
 
    - ### Code
       
-      1. [Bootstrap](https://getbootstrap.com/)
-      2. [Nav center](https://www.codeply.com/go/qhaBrcWp3v)
+      1. [Bootstrap](https://getbootstrap.com/) For majority fo the page like row and column, carousel, video and navbar.
+      2. [Nav center](https://www.codeply.com/go/qhaBrcWp3v) To center the navigation bar on Desktop and Tablet display.
 
    - ### Media
 
