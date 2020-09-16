@@ -45,7 +45,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
 
    - ### Wireframe
 
-      1. ![Desktop and Mobile Wireframe](./assets/readme/wireframe.pdf?raw=true)
+      1. ![Desktop and Mobile Wireframe](./assets/readme/wireframe.pdf)
       2. Tablet is the same as Desktop version.
 
 - ## Features
