@@ -107,7 +107,7 @@ It also provides home treatment for customers that are too busy to visit a beaut
           3. At the about us page, User will notice the customer reviews section.
           ![](./assets/readme/reviews.png)
          ##### As a First Time Visitor, I want to check the information of products and cost to know if it's affordable and suitable for my skin.
-          1. The price are right next to the name of the product so Users can know the price of the product while they are reading the details of it which will be just under the product or right next to it.
+          1. Each product will have their own description along with their individual cost.
           ![](./assets/readme/details.png)
          ##### As a First Time Visitor, I want to get into contact with them.
           1. Users can get in touch with us by filling the form in Contact page or they can message us through our social media.
